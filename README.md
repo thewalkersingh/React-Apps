@@ -4,63 +4,31 @@ Welcome to my React Apps repository! This collection features various projects b
 
 Project List
 
-1. [Project Name 1]
-   Description: Brief overview of the project, its purpose, and functionality.
+1. Movie Rating System
+   Description: A movie review system with Rating.
    Technologies Used:
-   React.js (with Hooks)
-   CSS (or styled-components, Sass)
-   REST APIs or GraphQL (if applicable)
+   React.js
+   CSS
    Features:
-   Feature 1 (e.g., Dynamic routing with React Router)
-   Feature 2 (e.g., State management with Context API or Redux)
-   Feature 3
-2. [Project Name 2]
-   Description: Short description of the project and its core functionality.
-   Technologies Used:
-   React.js
-   Material-UI or Bootstrap for styling
-   Axios for API calls
-   Key Highlights:
-   Highlight 1 (e.g., Pagination or Search functionality)
-   Highlight 2
-3. [Project Name 3]
-   Description: Brief overview of the project, its use case, and features.
-   Technologies Used:
-   React.js
-   Tailwind CSS or CSS modules
-   External Libraries (e.g., React Chart.js, Formik)
-   Getting Started
-   Clone this repository:
+   Dynamic star rating
+   Adding to your favourite list
+   Adding to your cart
 
-bash
-Copy code
-git clone https://github.com/yourusername/react-apps.git
-Navigate to the desired project directory:
-
-bash
-Copy code
-cd ProjectFolder
-Install the required dependencies:
-
-bash
-Copy code
+`git clone https://github.com/yourusername/react-apps.git`
+- Navigate to the desired project directory:
+- cd ProjectFolder
+### Install the required dependencies:
 npm install
-Start the development server:
-
-bash
-Copy code
-npm start
-Open your browser and navigate to:
-
-bash
-Copy code
-http://localhost:3000
-Prerequisites
-Node.js (version 12 or higher)
-npm (or yarn as an alternative package manager)
-Project Structure
+- Start the development server:
+  - npm start
+  - Open your browser and navigate to:
+  - http://localhost:3000
+  - 
+### Prerequisites
+- Node.js (version 12 or higher)
+- npm (or yarn as an alternative package manager)
+### Project Structure
 Each project follows a typical React structure:
-
 `src/
 ├── components/ # Reusable components
 ├── pages/ # Main views/pages
@@ -77,4 +45,4 @@ Each project follows a typical React structure:
 > Feel free to fork this repository, suggest improvements, or use these apps for learning purposes. Contributions and feedback are welcome!
 
 Contact
-For questions, suggestions, or collaborations, reach out to me at [your email].
+For questions, suggestions, or collaborations, reach out to me at dev.walkersingh@gmail.com
